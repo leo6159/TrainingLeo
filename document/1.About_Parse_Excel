@@ -1,0 +1,11 @@
+How to Read Excel file Using Java
+
+    I always see the question about "How to Read The MS Excel file with Java" or "how to create an Excel with Java",
+as to me ,I think the POI(from apache.org) is the most useful tools to complete the task.
+
+    It covers Excel (SS=HSSF+XSSF), Word (HWPF+XWPF), PowerPoint (HSLF+XSLF), Outlook (HSMF), Visio (HDGF), Publisher
+(HPBF) ..., as they say "The Apache POI Project's mission is to create and maintain Java APIs for manipulating various
+ file formats based upon the Office Open XML standards (OOXML) and Microsoft's OLE 2 Compound Document format (OLE2)".
+
+    As to Excel, I like their support for both .xls and .xlsx
+    
