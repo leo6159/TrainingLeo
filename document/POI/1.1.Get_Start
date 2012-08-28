@@ -4,11 +4,23 @@ in further training.
 
 STUDENT
 ---------------------------
-ID  NAME       STUDENT_NUMBER Grade Gender
- 1  Allen                1201     3      M
- 2  Bob                  1106     4      M
- 3  Julianne             1018     5      F
- 4  Thomas               1202     3      M
+ID |NAME      |STUDENT_NUMBER|GRADE|GENDER | BIRTHDAY
+------------------------------------------------------
+ 1  Allen                1201     3      M   1992-08-28
+ 2  Bob                  1106     4      M   1991-12-02
+ 3  Julianne             1318     2      F   1993-01-28
+ 4  Thomas               1202     3      M   1993-05-16
 
-COURSE
+COURSE(from http://oyc.yale.edu/courses)
 ---------------------------
+DEPARTMENT            | COURSE_NUMBER | COURSE_TITLE                                        |PROFESSOR_NAME     | DATE
+---------------------------------------------------------------------------------------------------------------------------------------
+Psychology              PSYC 123        The Psychology, Biology and Politics of Food         Brownell, Kelly D.   Fall 2008
+Political Science       PLSC 118        The Moral Foundations of Politics                    Shapiro, Ian         Spring 2010
+History                 HIST 210        The Early Middle Ages, 284–1000                      Freedman, Paul       Fall 2011
+History                 HIST 119        The Civil War and Reconstruction Era, 1845-1877      Blight, David W.     Spring 2008
+Geology and Geophysics  GG 140          The Atmosphere, the Ocean, and Environmental Change  Smith, Ronald B.     Fall 2011
+
+Now generate the student table in a sheet, and save the file. The course table can be generated in the same way.
+
+
