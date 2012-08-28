@@ -1,0 +1,14 @@
+  Though most users want to get the content of an Excel file, I want create an Excel file first and it can be useful 
+in further training.
+  Just like when learning about Database, I use the course/student for demonstration. In table views, they looks like:
+
+STUDENT
+---------------------------
+ID  NAME       STUDENT_NUMBER Grade Gender
+ 1  Allen                1201     3      M
+ 2  Bob                  1106     4      M
+ 3  Julianne             1018     5      F
+ 4  Thomas               1202     3      M
+
+COURSE
+---------------------------
