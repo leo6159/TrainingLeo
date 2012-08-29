@@ -5,7 +5,7 @@ TrainingLeo
 
 My own Training code
 
-''include any type of code, like js, java, python ...''
+include any type of code, like js, java, python ...
 
 2012-8-28
 
