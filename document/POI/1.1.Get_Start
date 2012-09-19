@@ -1,3 +1,5 @@
+Get Start
+=====================
   Though most users want to get the content of an Excel file, I want create an Excel file first and it can be useful 
 in further training.
   Just like when learning about Database, I use the course/student for demonstration. In table views, they looks like:
@@ -22,5 +24,14 @@ History                 HIST 119        The Civil War and Reconstruction Era, 18
 Geology and Geophysics  GG 140          The Atmosphere, the Ocean, and Environmental Change  Smith, Ronald B.     Fall 2011
 
 Now generate the student table in a sheet, and save the file. The course table can be generated in the same way.
+
+
+1.Create Excel File
+=====================
+  Though it's 2012, the MS Office 2007 has been released years ago, we get the .xls file from time to time.
+  Unlike swing or awt which add the component to panel, in POI, you need to create a workbook first, then create a sheet 
+using this workbook, so as to the row and cell.
+      workbook --> sheet --> row --> cell
+
 
 
